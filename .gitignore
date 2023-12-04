@@ -115,3 +115,5 @@ yalc.lock
 
 # Local https certificate/key
 config/webpack/*.pem
+temp_auto_push.bat
+temp_interactive_push.bat
